@@ -1,12 +1,12 @@
-# Tổng quan dành cho sinh viên
+# Tổng quan
 
 Sau khi đăng nhập và mở Mini App FTU, sinh viên có thể:
 
-- Xem thẻ sinh viên số.
-- Khám phá sự kiện đang mở đăng ký.
-- Đăng ký hoặc hủy đăng ký sự kiện thường.
-- Check-in bằng mã QR, thẻ NFC hoặc xác nhận thủ công.
-- Xem lịch sử tham gia và thông báo.
+* Xem thẻ sinh viên số.
+* Khám phá sự kiện đang mở đăng ký.
+* Đăng ký hoặc hủy đăng ký sự kiện thường.
+* Check-in bằng mã QR, thẻ NFC hoặc xác nhận thủ công.
+* Xem lịch sử tham gia và thông báo.
 
 ## Thứ tự nên thực hiện
 
@@ -15,3 +15,7 @@ Sau khi đăng nhập và mở Mini App FTU, sinh viên có thể:
 3. [Đăng ký sự kiện](dang-ky-su-kien.md).
 4. [Điểm danh khi sự kiện diễn ra](diem-danh-su-kien.md).
 5. [Kiểm tra lịch sử tham gia](lich-su-va-thong-bao.md).
+
+## Xem video hướng dẫn sử dụng tại link sau:
+
+[Video hướng dẫn sử dụng cho Sinh viên FTU](https://canva.link/1e3vnzghv5798r5)
