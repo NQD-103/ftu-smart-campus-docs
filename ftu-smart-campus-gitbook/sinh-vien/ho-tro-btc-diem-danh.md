@@ -10,11 +10,11 @@ Trang này dành cho sinh viên được Ban tổ chức phân công hỗ trợ 
 4. Đặt điện thoại ở vị trí dễ quét.
 5. Theo dõi số lượt, tỷ lệ và danh sách check-in theo thời gian thực.
 
-![Mở sự kiện được phân công](../assets/images/sv05-image1.jpg)
+<div data-with-frame="true"><img src="../.gitbook/assets/sv05-image1.jpg" alt="Mở sự kiện được phân công" width="188"></div>
 
-![Hiển thị QR](../assets/images/sv05-image2.jpg)
+<div data-with-frame="true"><img src="../.gitbook/assets/sv05-image2.jpg" alt="Hiển thị QR" width="188"></div>
 
-![Theo dõi kết quả real-time](../assets/images/sv05-image3.jpg)
+<div data-with-frame="true"><img src="../.gitbook/assets/sv05-image3.jpg" alt="Theo dõi kết quả real-time" width="188"></div>
 
 > Mã QR tự động thay đổi khoảng mỗi 30 giây.
 
@@ -24,11 +24,11 @@ Trang này dành cho sinh viên được Ban tổ chức phân công hỗ trợ 
 2. Yêu cầu sinh viên đưa thẻ sát mặt sau điện thoại.
 3. Kiểm tra họ tên và MSSV hiển thị sau khi đọc thành công.
 
-![Bật chế độ NFC](../assets/images/sv05-image4.jpg)
+![Bật chế độ NFC](../.gitbook/assets/sv05-image4.jpg)
 
-![Sinh viên áp thẻ](../assets/images/sv05-image5.jpg)
+![Sinh viên áp thẻ](../.gitbook/assets/sv05-image5.jpg)
 
-![Xác nhận kết quả](../assets/images/sv05-image6.jpg)
+![Xác nhận kết quả](../.gitbook/assets/sv05-image6.jpg)
 
 ## Check-in thủ công
 
@@ -37,8 +37,8 @@ Trang này dành cho sinh viên được Ban tổ chức phân công hỗ trợ 
 3. Xác nhận check-in.
 4. Kiểm tra lượt vừa tạo trong danh sách **Đã check-in**.
 
-![Tìm sinh viên](../assets/images/sv05-image7.jpg)
+![Tìm sinh viên](../.gitbook/assets/sv05-image7.jpg)
 
-![Xác nhận check-in](../assets/images/sv05-image8.jpg)
+![Xác nhận check-in](../.gitbook/assets/sv05-image8.jpg)
 
-![Kiểm tra kết quả](../assets/images/sv05-image9.jpg)
+![Kiểm tra kết quả](../.gitbook/assets/sv05-image9.jpg)

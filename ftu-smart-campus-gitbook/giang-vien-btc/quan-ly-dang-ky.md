@@ -9,9 +9,9 @@ Trong khoảng thời gian từ khi sự kiện được duyệt đến trước
 3. Mở mục **Đã đăng ký**.
 4. Theo dõi tổng số và danh sách sinh viên theo thời gian đăng ký.
 
-![Chọn sự kiện](../assets/images/gv03-image1.jpg)
+![Chọn sự kiện](../.gitbook/assets/gv03-image1.jpg)
 
-![Xem danh sách đăng ký](../assets/images/gv03-image2.jpg)
+![Xem danh sách đăng ký](../.gitbook/assets/gv03-image2.jpg)
 
 ## Gửi thông báo
 
@@ -19,10 +19,10 @@ Trong khoảng thời gian từ khi sự kiện được duyệt đến trước
 2. Soạn nội dung.
 3. Gửi tới sinh viên đã đăng ký.
 
-![Gửi thông báo đến sinh viên](../assets/images/gv03-image3.jpg)
+![Gửi thông báo đến sinh viên](../.gitbook/assets/gv03-image3.jpg)
 
 ## Khuyến nghị vận hành
 
-- Gửi nhắc trước sự kiện đủ sớm.
-- Nêu rõ thời gian, địa điểm và phương thức check-in.
-- Thông báo ngay khi có thay đổi hoặc hủy sự kiện.
+* Gửi nhắc trước sự kiện đủ sớm.
+* Nêu rõ thời gian, địa điểm và phương thức check-in.
+* Thông báo ngay khi có thay đổi hoặc hủy sự kiện.
