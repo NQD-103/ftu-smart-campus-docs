@@ -11,7 +11,7 @@ description: >-
 
 Chọn video phù hợp với vai trò của bạn:
 
-1. **Danh cho sinh viên:**      [Video hướng dẫn sử dụng cho Sinh viên FTU](https://canva.link/1e3vnzghv5798r5)
+1. **Dành cho sinh viên:**      [Video hướng dẫn sử dụng cho Sinh viên FTU](https://canva.link/1e3vnzghv5798r5)
 2. **Dành cho Giảng viên:**  [Video hướng dẫn sử dụng cho Giảng viên](https://canva.link/qpsapt7kb4ca2gh)
 
 > Các video dưới đây giúp người dùng làm quen nhanh với quy trình đăng nhập, truy cập Mini App FTU và sử dụng các chức năng chính của FTU Smart Campus.
