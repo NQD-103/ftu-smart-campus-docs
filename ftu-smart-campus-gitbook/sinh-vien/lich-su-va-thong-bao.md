@@ -3,12 +3,13 @@
 ## Xem lịch sử tham gia
 
 1. Mở tab **Lịch sử** trong mục Sự kiện.
+
+<div data-with-frame="true"><img src="../.gitbook/assets/sv06-image1.jpg" alt="Danh sách lịch sử sự kiện" width="188"></div>
+
 2. Chọn sự kiện đã kết thúc.
 3. Xem thời gian check-in và phương thức đã sử dụng.
 
-![Danh sách lịch sử sự kiện](../.gitbook/assets/sv06-image1.jpg)
-
-![Chi tiết lịch sử tham gia](../.gitbook/assets/sv06-image2.jpg)
+<div data-with-frame="true"><img src="../.gitbook/assets/sv06-image4.jpg" alt="" width="188"></div>
 
 ## Trạng thái tham gia
 
@@ -27,6 +28,4 @@ Trung tâm thông báo có thể hiển thị:
 * Nhắc sự kiện sắp diễn ra.
 * Sự kiện thay đổi hoặc bị hủy.
 
-![Trung tâm thông báo](../.gitbook/assets/sv06-image3.jpg)
-
-![Danh sách thông báo](../.gitbook/assets/sv06-image4.jpg)
+<div><img src="../.gitbook/assets/sv06-image3.jpg" alt="Trung tâm thông báo" width="188"> <img src="../.gitbook/assets/sv06-image2.jpg" alt="Chi tiết lịch sử tham gia" width="188"></div>

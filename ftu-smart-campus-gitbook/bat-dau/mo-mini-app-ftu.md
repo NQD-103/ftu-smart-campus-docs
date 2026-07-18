@@ -3,10 +3,13 @@
 ## Cách mở
 
 1. Đăng nhập vào ứng dụng 1Hub.
+
+<div data-with-frame="true"><img src="../.gitbook/assets/sv01-image12.jpg" alt="So khớp khuôn mặt" width="188"></div>
+
 2. Tại Trang chủ, tìm khu vực **Mini App**.
 3. Chạm biểu tượng **FTU**.
 
-<img src="../.gitbook/assets/sv02-image1.jpg" alt="Mở Mini App FTU từ Trang chủ 1Hub" width="188">
+<div data-with-frame="true"><img src="../.gitbook/assets/sv02-image2.jpg" alt="Chạm Xem thẻ" width="188"></div>
 
 ## Không thấy hoặc không mở được Mini App
 

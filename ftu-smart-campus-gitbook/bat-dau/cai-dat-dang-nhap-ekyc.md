@@ -7,7 +7,7 @@ Hướng dẫn này áp dụng cho sinh viên, giảng viên và thành viên Ba
 1. Mở **CH Play** hoặc **App Store**.
 2. Tìm **1Hub Super App và cài đặt ứng dụng**
 
-<div align="center"><img src="../.gitbook/assets/sv01-image6.jpg" alt="Đăng nhập thành công" width="188"></div>
+<div align="center" data-with-frame="true"><img src="../.gitbook/assets/sv01-image6.jpg" alt="Đăng nhập thành công" width="188"></div>
 
 ## 2. Cấp quyền cho ứng dụng
 
@@ -18,21 +18,21 @@ Khi mở ứng dụng lần đầu, cho phép các quyền cần thiết:
 * NFC.
 * Thông báo.
 
-<img src="../.gitbook/assets/sv01-image7.jpg" alt="Nhấn Xác minh ngay" width="188">
+<div data-with-frame="true"><img src="../.gitbook/assets/sv01-image7.jpg" alt="Nhấn Xác minh ngay" width="188"></div>
 
 ## 3. Đăng nhập
 
 1. Chọn **Tiếp tục với Email**, **Tiếp tục với Google** hoặc **Apple**.
 
-<img src="../.gitbook/assets/sv01-image11.jpg" alt="Đọc chip NFC" width="188">
+<div data-with-frame="true"><img src="../.gitbook/assets/sv01-image11.jpg" alt="Đọc chip NFC" width="188"></div>
 
 2. Nhập email do Nhà trường cấp có tên miền `@ftu.edu.vn`.
 
-<img src="../.gitbook/assets/sv01-image9.jpg" alt="Bắt đầu xác minh" width="188">
+<div data-with-frame="true"><img src="../.gitbook/assets/sv01-image9.jpg" alt="Bắt đầu xác minh" width="188"></div>
 
-2. Nhập mã OTP được gửi về email. Mã có hiệu lực trong 5 phút.
+3. Nhập mã OTP được gửi về email. Mã có hiệu lực trong 5 phút.
 
-<img src="../.gitbook/assets/sv01-image4.jpg" alt="Nhập email Nhà trường" width="188">
+<div data-with-frame="true"><img src="../.gitbook/assets/sv01-image4.jpg" alt="Nhập email Nhà trường" width="188"></div>
 
 4. Sau khi xác thực thành công, ứng dụng mở màn hình Trang chủ của 1Hub.
 
