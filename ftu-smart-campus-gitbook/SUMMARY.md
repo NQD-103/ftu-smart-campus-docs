@@ -6,6 +6,7 @@
 
 * [FTU Smart Campus là gì?](gioi-thieu/ftu-smart-campus-la-gi.md)
 * [Vai trò và quy trình tổng quan](gioi-thieu/vai-tro-va-quy-trinh.md)
+* [Video hướng dẫn](gioi-thieu/video-huong-dan.md)
 
 ## Bắt đầu
 
