@@ -6,8 +6,7 @@
 
 <div data-with-frame="true"><img src="../.gitbook/assets/sv01-image12.jpg" alt="So khớp khuôn mặt" width="188"></div>
 
-2. Tại Trang chủ, tìm khu vực **Mini App**.
-3. Chạm biểu tượng **FTU**.
+2. Tại Trang chủ, tìm khu vực **Mini App** và chạm biểu tượng **FTU**.
 
 <div data-with-frame="true"><img src="../.gitbook/assets/sv02-image2.jpg" alt="Chạm Xem thẻ" width="188"></div>
 
