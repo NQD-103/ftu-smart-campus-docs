@@ -17,7 +17,7 @@ Trang này dành cho sinh viên được Ban tổ chức phân công hỗ trợ 
 
 <div data-with-frame="true"><img src="../.gitbook/assets/sv05-image3.jpg" alt="Theo dõi kết quả real-time" width="188"></div>
 
-4. Theo dõi số lượt, tỷ lệ và danh sách check-in theo thời gian thực.
+5. Theo dõi số lượt, tỷ lệ và danh sách check-in theo thời gian thực.
 
 <div data-with-frame="true"><img src="../.gitbook/assets/sv05-image2.jpg" alt="Hiển thị QR" width="188"></div>
 
@@ -29,7 +29,7 @@ Trang này dành cho sinh viên được Ban tổ chức phân công hỗ trợ 
 
 <div data-with-frame="true"><img src="../.gitbook/assets/sv05-image5.jpg" alt="Sinh viên áp thẻ" width="188"></div>
 
-1. Yêu cầu sinh viên đưa thẻ sát mặt sau điện thoại.
+2. Yêu cầu sinh viên đưa thẻ sát mặt sau điện thoại.
 
 <div data-with-frame="true"><img src="../.gitbook/assets/sv05-image8.jpg" alt="Xác nhận check-in" width="188"></div>
 
