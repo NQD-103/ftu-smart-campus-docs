@@ -43,11 +43,3 @@
 * [Câu hỏi thường gặp](ho-tro/cau-hoi-thuong-gap.md)
 * [Xử lý sự cố](ho-tro/xu-ly-su-co.md)
 * [Thuật ngữ](ho-tro/thuat-ngu.md)
-
-
-# Admin trường
-
-* [Tổng quan](admin-truong/README.md)
-* [Quản lý người dùng](admin-truong/quan-ly-nguoi-dung.md)
-* [Import danh sách](admin-truong/import-danh-sach.md)
-* [Xóa người dùng](admin-truong/xoa-nguoi-dung.md)
