@@ -31,6 +31,13 @@
 * [Điểm danh tại sự kiện](giang-vien-va-ban-to-chuc/diem-danh-su-kien-1.md)
 * [Xem báo cáo và xuất Excel](giang-vien-va-ban-to-chuc/bao-cao-su-kien.md)
 
+## Admin trường
+
+* [Tổng quan](admin-truong/README.md)
+* [Quản lý người dùng](admin-truong/quan-ly-nguoi-dung.md)
+* [Import danh sách](admin-truong/import-danh-sach.md)
+* [Xóa người dùng](admin-truong/xoa-nguoi-dung.md)
+
 ## Hỗ trợ
 
 * [Câu hỏi thường gặp](ho-tro/cau-hoi-thuong-gap.md)
