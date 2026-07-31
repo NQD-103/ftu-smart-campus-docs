@@ -39,7 +39,7 @@ Giảng viên/BTC sẽ chỉ định một trong ba phương thức dưới đâ
 1. Mang theo thẻ sinh viên đã liên kết.
 2. Đưa thẻ sát mặt sau điện thoại của giảng viên/BTC.
 
-<img src="../.gitbook/assets/sv04-image1.jpg" alt="Mở mục check-in" width="188">
+<img src="../.gitbook/assets/gv04-image1.jpg" alt="Mở mục check-in" width="188">
 
 3. Chờ xác nhận đã check-in.
 

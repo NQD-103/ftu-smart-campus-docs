@@ -31,7 +31,7 @@ Trang này dành cho sinh viên được Ban tổ chức phân công hỗ trợ 
 
 2. Yêu cầu sinh viên đưa thẻ sát mặt sau điện thoại.
 
-<div data-with-frame="true"><img src="../.gitbook/assets/sv05-image8.jpg" alt="Xác nhận check-in" width="188"></div>
+<div data-with-frame="true"><img src="../.gitbook/assets/gv04-image1.jpg" alt="Xác nhận check-in" width="188"></div>
 
 3. Kiểm tra họ tên và MSSV hiển thị sau khi đọc thành công.
 

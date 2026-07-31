@@ -2,19 +2,19 @@
 
 Màn hình **Quản lý người dùng** hiển thị toàn bộ người dùng của trường, chia theo 3 tab: **Sinh viên FTU**, **Giảng viên**, **Sinh viên ngoại quốc**. Admin trường có thể lọc theo khoa / khóa / trạng thái, hoặc tìm kiếm theo tên, MSSV, email.
 
+## PHẦN 1 — HỒ SƠ NGƯỜI DÙNG
+
+### Bước 1: Mở hồ sơ
+
+Bấm biểu tượng con mắt (xem) hoặc bút chì (sửa) trên hàng người dùng.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Xem và chỉnh sửa hồ sơ
 
 1. Trên hàng người dùng cần thao tác, bấm biểu tượng **con mắt** để xem hoặc biểu tượng **bút chì** để sửa, nhằm mở hồ sơ chi tiết.
-
-<div data-with-frame="true"><img src="../.gitbook/assets/ad03-image1.jpg" alt="Mở hồ sơ người dùng" width="480"></div>
-
 2. Xem hoặc chỉnh sửa các thông tin: họ tên, email, khoa, khóa.
-
-<div data-with-frame="true"><img src="../.gitbook/assets/ad03-image2.jpg" alt="Xem, sửa thông tin hồ sơ" width="480"></div>
-
 3. Quản lý thẻ NFC của người dùng: gắn mã thẻ (UID hệ 16, từ 6–16 ký tự) hoặc thu hồi thẻ đang gắn.
-
-<div data-with-frame="true"><img src="../.gitbook/assets/ad03-image3.jpg" alt="Quản lý thẻ NFC" width="480"></div>
 
 ## Lưu ý
 
