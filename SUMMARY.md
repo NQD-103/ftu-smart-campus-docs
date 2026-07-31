@@ -10,7 +10,7 @@
 
 ## Bắt đầu
 
-* [Cài đặt, đăng nhập và eKYC](bat-dau/cai-dat-dang-nhap-ekyc.md)
+* [Cài đặt, đăng nhập và xác minh danh tính](bat-dau/cai-dat-dang-nhap-ekyc.md)
 * [Mở Mini App FTU](bat-dau/mo-mini-app-ftu.md)
 
 ## Sinh viên
